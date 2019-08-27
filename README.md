@@ -1,5 +1,5 @@
 # stat579-zhuoyizhao
-Creating my fist repo for STAT 579
+My fist repository for STAT 579
 
 - *(User) Name?*
 
