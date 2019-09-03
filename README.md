@@ -16,3 +16,5 @@ My fist repository for STAT 579
 - *What are the three most important tools/strategies you use for analyzing data?*
 
   Data manipulation, feature selection, and data visualization are the three most important tools/strategies I use for analyzing data. 
+
+hello, my name is wolf
