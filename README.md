@@ -18,3 +18,4 @@ My fist repository for STAT 579
   Data manipulation, feature selection, and data visualization are the three most important tools/strategies I use for analyzing data. 
 
 hello, my name is wolf
+study hard and work hard, good luck
